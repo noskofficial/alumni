@@ -38,8 +38,10 @@ layout: page
 
     <div class="post-preview">
       {% if post.image.path %}
-      <div style="display: flex;">
-        <img src={{post.image.path}} width="100%" />
+      <div style="display: flex;align-items: center;justify-content: flex-start;">
+        <div style="width: 25%;">
+          <img src={{post.image.path}} width="100%"/>
+        </div>
       </div>
       {% endif %}
       <h1>
