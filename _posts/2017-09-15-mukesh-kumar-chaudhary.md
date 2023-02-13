@@ -1,9 +1,9 @@
 ---
 title: Mukesh Kumar Chaudhary
 author: mukezhz
-date: 2023-02-12 09:02:00 GMT+0545
+date: 2017-11-09 11:15:00 GMT+0545
 categories: [Alumni, Student]
-tags: [nosk, alumni, alumnus, student, ncit]
+tags: [nosk, alumni, alumnus, student, ncit, beit, 2017]
 math: true
 mermaid: true
 image:
@@ -21,6 +21,6 @@ I like to keep an open mind about adopting new technologies. I can adapt fairly 
 - DevOps engineer at Hamropatro - since March 2022
 
 ## Education
-- Bachelors: Nepal College of Information Technology - 2017 batch
+- Bachelors: Nepal College of Information Technology - 2017 batch BEIT
 - +2: Takshashila Academy - 2015 batch
 - School: Shivapuri Higher Secondary School
