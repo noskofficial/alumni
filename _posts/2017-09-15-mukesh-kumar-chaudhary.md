@@ -3,7 +3,7 @@ title: Mukesh Kumar Chaudhary
 author: mukezhz
 date: 2017-11-09 11:15:00 GMT+0545
 categories: [Alumni, Student]
-tags: [nosk, alumni, alumnus, student, ncit, beit, 2017]
+tags: [nosk, alumni, alumnus, student, ncit, beit, "2017"]
 math: true
 mermaid: true
 image:
